@@ -1,0 +1,10 @@
+.sidebar{
+    width: 220px;
+}
+.divDash {
+    word-wrap: break-word;
+ }
+  
+span {
+    flex: 1; /* El texto ocupará todo el espacio disponible en el contenedor */
+}
